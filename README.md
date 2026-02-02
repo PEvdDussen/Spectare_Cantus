@@ -20,9 +20,9 @@ We are currently building the "Vertical Slice" prototype using Psalm 100 (40-syl
 
 ### Project Structure
 - `/src`: The C# source code.
-- `/assets/Melody`: Melody "Skeletons" with syllable tokens (Syl_1, Syl_2...).
-- `/assets/Melody/Audio`: Recordings of the melody if available.
-- `/assets/Psalms/Afr`: JSON mapping files for different languages (e.g., Afr = Afrikaans, Eng = English, Fre = French).
+- `/assets/melodies`: Melody "Skeletons" with syllable tokens (Syl_1, Syl_2...).
+- `/assets/melodies/audio`: Recordings of the melody if available.
+- `/assets/psalms/afr`: JSON mapping files for different languages (e.g., Afr = Afrikaans, Eng = English, Fre = French).
 
 ### Legal Note
 This project is an independent modern reimagining inspired by the liturgical software by the same name create for "Gereformeerde Kerk Centurion, Guateng, South Africa". It is built from the ground up with entirely new algorithms and architecture.
