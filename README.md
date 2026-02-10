@@ -23,9 +23,12 @@ We are currently building the "Vertical Slice" prototype using Psalm 100 (40-syl
 - `/assets/melodies`: Melody "Skeletons" with syllable tokens (Syl_1, Syl_2...).
 - `/assets/melodies/audio`: Recordings of the melody if available.
 - `/assets/psalms/afr`: JSON mapping files for different languages (e.g., Afr = Afrikaans, Eng = English, Fre = French).
+- `/assets/psalms/afr/100`: The files for psalm 100 in the Afrikaans language.
 
 ### Legal Note
 This project is an independent modern reimagining inspired by the liturgical software by the same name create for "Gereformeerde Kerk Centurion, Guateng, South Africa". It is built from the ground up with entirely new algorithms and architecture.
+
+See the LICENCE file for more information.
 
 ## Melody Structure
 A melody is defined by a MusicXML v4 definition.
@@ -33,4 +36,4 @@ A melody is defined by a MusicXML v4 definition.
 ### Sylable Notation
 A sylable is defined in a `<lyric><text>Syl_1<text/><lyric/>` tag.
 The sylables are defined sequentially i.e. Syl_1, Syl_2, Syl_3, etc.
-A sylable can span more than one note. This is handled by appending an alphabetic letter to the end of the sylable i.e. Syl_1_A, Syl_1_B. In the final Psalm sylables only a definition for Syl_1 and the rest will be handled automatically.
+A sylable can span more than one note. This is handled by <syllable>...</syllable> notation in MusicXML.
