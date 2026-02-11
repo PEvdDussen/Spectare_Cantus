@@ -1,0 +1,48 @@
+{
+    "header": {
+        "type": "Psalm",
+        "number": "100-1",
+        "verse": "1",
+        "prefered_melody": "year:1926_writer:pk-de-villiers_name:juich,-aard,-juicht-alom-den-heer'_syllables:32_measure:8-8-8-8",
+        "all_melodies": "[\"place:geneve_year:1551_writer:loys-bourgeois_origin:seigneur,-je-n'ay-point-le-coeur-fier_syllables:32_measure:8-8-8-8\",\"year:1926_writer:pk-de-villiers_name:juich,-aard,-juicht-alom-den-heer'_syllables:32_measure:8-8-8-8\"]",
+        "transcriber": {
+            "name": "Pieter Ernst van der Dussen",
+            "date": "2026/02/10T12:55:00Z0200",
+            "place": "Gauteng, South Africa"
+        }
+    },
+    "syllables": {
+        "syl_1": "Juig",
+        "syl_2": "al",
+        "syl_3": "wat",
+        "syl_4": "leef,",
+        "syl_5": "juig",
+        "syl_6": "voor",
+        "syl_7": "die",
+        "syl_8": "Heer!",
+        "syl_9": "Dien",
+        "syl_10": "God",
+        "syl_11": "met",
+        "syl_12": "blyd",
+        "syl_13": "skap,",
+        "syl_14": "gee",
+        "syl_15": "Hom",
+        "syl_16": "eer;",
+        "syl_17": "kom",
+        "syl_18": "na",
+        "syl_19": "der",
+        "syl_20": "voor",
+        "syl_21": "sy",
+        "syl_22": "aan",
+        "syl_23": "ge",
+        "syl_24": "sig,",
+        "syl_25": "en",
+        "syl_26": "prys",
+        "syl_27": "Hom",
+        "syl_28": "met",
+        "syl_29": "'n",
+        "syl_30": "lof",
+        "syl_31": "ge",
+        "syl_32": "dig."
+    }
+}
