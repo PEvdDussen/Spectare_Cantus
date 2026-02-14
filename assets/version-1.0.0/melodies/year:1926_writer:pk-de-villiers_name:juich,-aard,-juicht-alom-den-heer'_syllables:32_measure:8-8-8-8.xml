@@ -37,7 +37,7 @@
         <lyric number="1">syl_2</lyric>
       </note>
       <note>
-        <pitch><step>C</step><octave>4</octave></pitch>
+        <pitch><step>C</step><octave>4</octave><alter>1</alter></pitch>
         <duration>1</duration>
         <type>half</type>
         <lyric number="1">syl_3</lyric>
@@ -67,7 +67,7 @@
         <lyric number="1">syl_7</lyric>
       </note>
       <note>
-        <pitch><step>C</step><octave>5</octave></pitch>
+        <pitch><step>C</step><octave>5</octave><alter>1</alter></pitch>
         <duration>1</duration>
         <type>half</type>
         <lyric number="1">syl_8</lyric>
@@ -92,7 +92,7 @@
         <lyric number="1">syl_10</lyric>
       </note>
       <note>
-        <pitch><step>C</step><octave>5</octave></pitch>
+        <pitch><step>C</step><octave>5</octave><alter>1</alter></pitch>
         <duration>1</duration>
         <type>half</type>
         <lyric number="1">syl_11</lyric>
@@ -110,13 +110,13 @@
         <lyric number="1">syl_13</lyric>
       </note>
       <note>
-        <pitch><step>G</step><octave>4</octave></pitch>
+        <pitch><step>G</step><octave>4</octave><alter>1</alter></pitch>
         <duration>1</duration>
         <type>half</type>
         <lyric number="1">syl_14</lyric>
       </note>
       <note>
-        <pitch><step>F</step><octave>4</octave></pitch>
+        <pitch><step>F</step><octave>4</octave><alter>1</alter></pitch>
         <duration>1</duration>
         <type>half</type>
         <lyric number="1">syl_15</lyric>
@@ -141,7 +141,7 @@
         <lyric number="1">syl_17</lyric>
       </note>
       <note>
-        <pitch><step>F</step><octave>4</octave></pitch>
+        <pitch><step>F</step><octave>4</octave><alter>1</alter></pitch>
         <duration>1</duration>
         <type>half</type>
         <lyric number="1">syl_18</lyric>
@@ -165,7 +165,7 @@
         <lyric number="1">syl_21</lyric>
       </note>
       <note>
-        <pitch><step>F</step><octave>4</octave></pitch>
+        <pitch><step>F</step><octave>4</octave><alter>1</alter></pitch>
         <duration>1</duration>
         <type>half</type>
         <lyric number="1">syl_22</lyric>
@@ -177,7 +177,7 @@
         <lyric number="1">syl_23</lyric>
       </note>
       <note>
-        <pitch><step>G</step><octave>4</octave></pitch>
+        <pitch><step>G</step><octave>4</octave><alter>1</alter></pitch>
         <duration>1</duration>
         <type>half</type>
         <lyric number="1">syl_24</lyric>
@@ -196,7 +196,7 @@
         <lyric number="1">syl_25</lyric>
       </note>
       <note>
-        <pitch><step>C</step><octave>5</octave></pitch>
+        <pitch><step>C</step><octave>5</octave><alter>1</alter></pitch>
         <duration>1</duration>
         <type>half</type>
         <lyric number="1">syl_26</lyric>
@@ -208,7 +208,7 @@
         <lyric number="1">syl_27</lyric>
       </note>
       <note>
-        <pitch><step>F</step><octave>4</octave></pitch>
+        <pitch><step>F</step><octave>4</octave><alter>1</alter></pitch>
         <duration>1</duration>
         <type>half</type>
         <lyric number="1">syl_28</lyric>
@@ -226,7 +226,7 @@
         <lyric number="1">syl_30</lyric>
       </note>
       <note>
-        <pitch><step>G</step><octave>4</octave></pitch>
+        <pitch><step>G</step><octave>4</octave><alter>1</alter></pitch>
         <duration>1</duration>
         <type>half</type>
         <lyric number="1">syl_31</lyric>
