@@ -36,16 +36,16 @@
         "syl_19": "<syllabic>end</syllabic><text>der</text>",
         "syl_20": "<syllabic>single</syllabic><text>voor</text>",
         "syl_21": "<syllabic>single</syllabic><text>sy</text>",
-        "syl_22": "<syllabic>single</syllabic><text>aan</text>",
-        "syl_23": "<syllabic>begin</syllabic><text>ge</text>",
+        "syl_22": "<syllabic>begin</syllabic><text>aan</text>",
+        "syl_23": "<syllabic>middle</syllabic><text>ge</text>",
         "syl_24": "<syllabic>end</syllabic><text>sig,</text>",
         "syl_25": "<syllabic>single</syllabic><text>en</text>",
         "syl_26": "<syllabic>single</syllabic><text>prys</text>",
         "syl_27": "<syllabic>single</syllabic><text>Hom</text>",
         "syl_28": "<syllabic>single</syllabic><text>met</text>",
         "syl_29": "<syllabic>single</syllabic><text>'n</text>",
-        "syl_30": "<syllabic>single</syllabic><text>lof</text>",
-        "syl_31": "<syllabic>begin</syllabic><text>ge</text>",
+        "syl_30": "<syllabic>begin</syllabic><text>lof</text>",
+        "syl_31": "<syllabic>middle</syllabic><text>ge</text>",
         "syl_32": "<syllabic>end</syllabic><text>dig.</text>"
     }
 }
