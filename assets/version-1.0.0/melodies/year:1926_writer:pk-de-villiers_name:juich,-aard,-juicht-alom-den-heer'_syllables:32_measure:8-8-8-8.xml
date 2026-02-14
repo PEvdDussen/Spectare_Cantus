@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE score-partwise PUBLIC "-//Recordare//DTD MusicXML 4.0 Partwise//EN" "http://www.musicxml.org/dtds/partwise.dtd">
+<score-partwise version="4.0">
+  <work>
+    <work-title>Psalm 100 (1926 Melody)</work-title>
+  </work>
+  <identification>
+    <creator type="composer">P.K. de Villiers</creator>
+    <encoding>
+      <software>SpectareCantus Parser v1</software>
+      <encoder>Pieter Ernst van der Dussen III</encoder>
+      <encoding-date>2026-02-12</encoding-date>
+    </encoding>
+  </identification>
+  <part-list>
+    <score-part id="P1">
+      <part-name>Voice</part-name>
+    </score-part>
+  </part-list>
+  <part id="P1">
+    <measure number="1">
+      <attributes>
+        <divisions>1</divisions>
+        <key><fifths>3</fifths></key> <time><beats>2</beats><beat-type>2</beat-type></time>
+        <clef><sign>G</sign><line>2</line></clef>
+      </attributes>
+      <note>
+        <pitch><step>A</step><octave>4</octave></pitch>
+        <duration>1</duration>
+        <type>half</type>
+        <lyric number="1">syl_1</lyric>
+      </note>
+      <note>
+        <pitch><step>E</step><octave>4</octave></pitch>
+        <duration>1</duration>
+        <type>half</type>
+        <lyric number="1">syl_2</lyric>
+      </note>
+      <note>
+        <pitch><step>C</step><octave>4</octave></pitch>
+        <duration>1</duration>
+        <type>half</type>
+        <lyric number="1">syl_3</lyric>
+      </note>
+      <note>
+        <pitch><step>A</step><octave>4</octave></pitch>
+        <duration>1</duration>
+        <type>half</type>
+        <lyric number="1">syl_4</lyric>
+      </note>
+      <note>
+        <pitch><step>A</step><octave>4</octave></pitch>
+        <duration>1</duration>
+        <type>half</type>
+        <lyric number="1">syl_5</lyric>
+      </note>
+      <note>
+        <pitch><step>B</step><octave>4</octave></pitch>
+        <duration>1</duration>
+        <type>half</type>
+        <lyric number="1">syl_6</lyric>
+      </note>
+      <note>
+        <pitch><step>B</step><octave>4</octave></pitch>
+        <duration>1</duration>
+        <type>half</type>
+        <lyric number="1">syl_7</lyric>
+      </note>
+      <note>
+        <pitch><step>C</step><octave>5</octave></pitch>
+        <duration>1</duration>
+        <type>half</type>
+        <lyric number="1">syl_8</lyric>
+      </note>
+    </measure>
+    <measure number="2">
+      <attributes>
+        <divisions>1</divisions>
+        <key><fifths>3</fifths></key> <time><beats>2</beats><beat-type>2</beat-type></time>
+        <clef><sign>G</sign><line>2</line></clef>
+      </attributes>
+      <note>
+        <pitch><step>A</step><octave>4</octave></pitch>
+        <duration>1</duration>
+        <type>half</type>
+        <lyric number="1">syl_9</lyric>
+      </note>
+      <note>
+        <pitch><step>D</step><octave>5</octave></pitch>
+        <duration>1</duration>
+        <type>half</type>
+        <lyric number="1">syl_10</lyric>
+      </note>
+      <note>
+        <pitch><step>C</step><octave>5</octave></pitch>
+        <duration>1</duration>
+        <type>half</type>
+        <lyric number="1">syl_11</lyric>
+      </note>
+      <note>
+        <pitch><step>B</step><octave>4</octave></pitch>
+        <duration>1</duration>
+        <type>half</type>
+        <lyric number="1">syl_12</lyric>
+      </note>
+      <note>
+        <pitch><step>A</step><octave>4</octave></pitch>
+        <duration>1</duration>
+        <type>half</type>
+        <lyric number="1">syl_13</lyric>
+      </note>
+      <note>
+        <pitch><step>G</step><octave>4</octave></pitch>
+        <duration>1</duration>
+        <type>half</type>
+        <lyric number="1">syl_14</lyric>
+      </note>
+      <note>
+        <pitch><step>F</step><octave>4</octave></pitch>
+        <duration>1</duration>
+        <type>half</type>
+        <lyric number="1">syl_15</lyric>
+      </note>
+      <note>
+        <pitch><step>E</step><octave>4</octave></pitch>
+        <duration>1</duration>
+        <type>half</type>
+        <lyric number="1">syl_16</lyric>
+      </note>
+    </measure>
+    <measure number="3">
+      <attributes>
+        <divisions>1</divisions>
+        <key><fifths>3</fifths></key> <time><beats>2</beats><beat-type>2</beat-type></time>
+        <clef><sign>G</sign><line>2</line></clef>
+      </attributes>
+      <note>
+        <pitch><step>E</step><octave>4</octave></pitch>
+        <duration>1</duration>
+        <type>half</type>
+        <lyric number="1">syl_17</lyric>
+      </note>
+      <note>
+        <pitch><step>F</step><octave>4</octave></pitch>
+        <duration>1</duration>
+        <type>half</type>
+        <lyric number="1">syl_18</lyric>
+      </note>
+      <note>
+        <pitch><step>E</step><octave>4</octave></pitch>
+        <duration>1</duration>
+        <type>half</type>
+        <lyric number="1">syl_19</lyric>
+      </note>
+      <note>
+        <pitch><step>A</step><octave>4</octave></pitch>
+        <duration>1</duration>
+        <type>half</type>
+        <lyric number="1">syl_20</lyric>
+      </note>
+      <note>
+        <pitch><step>E</step><octave>4</octave></pitch>
+        <duration>1</duration>
+        <type>half</type>
+        <lyric number="1">syl_21</lyric>
+      </note>
+      <note>
+        <pitch><step>F</step><octave>4</octave></pitch>
+        <duration>1</duration>
+        <type>half</type>
+        <lyric number="1">syl_22</lyric>
+      </note>
+      <note>
+        <pitch><step>B</step><octave>4</octave></pitch>
+        <duration>1</duration>
+        <type>half</type>
+        <lyric number="1">syl_23</lyric>
+      </note>
+      <note>
+        <pitch><step>G</step><octave>4</octave></pitch>
+        <duration>1</duration>
+        <type>half</type>
+        <lyric number="1">syl_24</lyric>
+      </note>
+    </measure>
+    <measure number="4">
+      <attributes>
+        <divisions>1</divisions>
+        <key><fifths>3</fifths></key> <time><beats>2</beats><beat-type>2</beat-type></time>
+        <clef><sign>G</sign><line>2</line></clef>
+      </attributes>
+      <note>
+        <pitch><step>D</step><octave>5</octave></pitch>
+        <duration>1</duration>
+        <type>half</type>
+        <lyric number="1">syl_25</lyric>
+      </note>
+      <note>
+        <pitch><step>C</step><octave>5</octave></pitch>
+        <duration>1</duration>
+        <type>half</type>
+        <lyric number="1">syl_26</lyric>
+      </note>
+      <note>
+        <pitch><step>A</step><octave>4</octave></pitch>
+        <duration>1</duration>
+        <type>half</type>
+        <lyric number="1">syl_27</lyric>
+      </note>
+      <note>
+        <pitch><step>F</step><octave>4</octave></pitch>
+        <duration>1</duration>
+        <type>half</type>
+        <lyric number="1">syl_28</lyric>
+      </note>
+      <note>
+        <pitch><step>B</step><octave>4</octave></pitch>
+        <duration>1</duration>
+        <type>half</type>
+        <lyric number="1">syl_29</lyric>
+      </note>
+      <note>
+        <pitch><step>A</step><octave>4</octave></pitch>
+        <duration>1</duration>
+        <type>half</type>
+        <lyric number="1">syl_30</lyric>
+      </note>
+      <note>
+        <pitch><step>G</step><octave>4</octave></pitch>
+        <duration>1</duration>
+        <type>half</type>
+        <lyric number="1">syl_31</lyric>
+      </note>
+      <note>
+        <pitch><step>A</step><octave>4</octave></pitch>
+        <duration>1</duration>
+        <type>half</type>
+        <lyric number="1">syl_32</lyric>
+      </note>
+    </measure>
+  </part>
+</score-partwise>
