@@ -1,9 +1,10 @@
 {
     "header": {
         "type": "Psalm",
-        "number": "100-1",
-        "verse": "1",
-        "prefered_melody": "year:1926_writer:pk-de-villiers_name:juich,-aard,-juicht-alom-den-heer'_syllables:32_measure:8-8-8-8",
+        "number": 100,
+        "rhyme": 1,
+        "verse": 1,
+        "prefered_melody": "Tweede Melodie",
         "all_melodies": {
             "Eerste Melodie": "place:geneve_year:1551_writer:loys-bourgeois_origin:seigneur,-je-n'ay-point-le-coeur-fier_syllables:32_measure:8-8-8-8",
             "Tweede Melodie": "year:1926_writer:pk-de-villiers_name:juich,-aard,-juicht-alom-den-heer'_syllables:32_measure:8-8-8-8"
