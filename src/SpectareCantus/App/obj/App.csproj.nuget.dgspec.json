@@ -1,0 +1,215 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/pvddussen/Documents/Projects/Spectare_Cantus/src/SpectareCantus/App/App.csproj": {}
+  },
+  "projects": {
+    "/home/pvddussen/Documents/Projects/Spectare_Cantus/src/SpectareCantus/App/App.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/pvddussen/Documents/Projects/Spectare_Cantus/src/SpectareCantus/App/App.csproj",
+        "projectName": "App",
+        "projectPath": "/home/pvddussen/Documents/Projects/Spectare_Cantus/src/SpectareCantus/App/App.csproj",
+        "packagesPath": "/home/pvddussen/.nuget/packages/",
+        "outputPath": "/home/pvddussen/Documents/Projects/Spectare_Cantus/src/SpectareCantus/App/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/pvddussen/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/home/pvddussen/Documents/Projects/Spectare_Cantus/src/SpectareCantus/Core/Core.csproj": {
+                "projectPath": "/home/pvddussen/Documents/Projects/Spectare_Cantus/src/SpectareCantus/Core/Core.csproj"
+              },
+              "/home/pvddussen/Documents/Projects/Spectare_Cantus/src/SpectareCantus/Parser/Parser.csproj": {
+                "projectPath": "/home/pvddussen/Documents/Projects/Spectare_Cantus/src/SpectareCantus/Parser/Parser.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Avalonia": {
+              "target": "Package",
+              "version": "[11.3.12, )"
+            },
+            "Avalonia.Desktop": {
+              "target": "Package",
+              "version": "[11.3.12, )"
+            },
+            "Avalonia.Diagnostics": {
+              "target": "Package",
+              "version": "[11.3.12, )"
+            },
+            "Avalonia.Fonts.Inter": {
+              "target": "Package",
+              "version": "[11.3.12, )"
+            },
+            "Avalonia.Themes.Fluent": {
+              "target": "Package",
+              "version": "[11.3.12, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.418/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/pvddussen/Documents/Projects/Spectare_Cantus/src/SpectareCantus/Core/Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/pvddussen/Documents/Projects/Spectare_Cantus/src/SpectareCantus/Core/Core.csproj",
+        "projectName": "Core",
+        "projectPath": "/home/pvddussen/Documents/Projects/Spectare_Cantus/src/SpectareCantus/Core/Core.csproj",
+        "packagesPath": "/home/pvddussen/.nuget/packages/",
+        "outputPath": "/home/pvddussen/Documents/Projects/Spectare_Cantus/src/SpectareCantus/Core/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/pvddussen/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.418/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/pvddussen/Documents/Projects/Spectare_Cantus/src/SpectareCantus/Parser/Parser.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/pvddussen/Documents/Projects/Spectare_Cantus/src/SpectareCantus/Parser/Parser.csproj",
+        "projectName": "Parser",
+        "projectPath": "/home/pvddussen/Documents/Projects/Spectare_Cantus/src/SpectareCantus/Parser/Parser.csproj",
+        "packagesPath": "/home/pvddussen/.nuget/packages/",
+        "outputPath": "/home/pvddussen/Documents/Projects/Spectare_Cantus/src/SpectareCantus/Parser/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/pvddussen/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/home/pvddussen/Documents/Projects/Spectare_Cantus/src/SpectareCantus/Core/Core.csproj": {
+                "projectPath": "/home/pvddussen/Documents/Projects/Spectare_Cantus/src/SpectareCantus/Core/Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.418/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
