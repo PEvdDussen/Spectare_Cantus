@@ -4,7 +4,7 @@ using SpectareCantus.Core;
 
 namespace SpectareCantus.Parser
 {
-    public static class JsonLoader
+    public static class LyricsLoader
     {
         public static Lyrics LoadPsalm(string filePath)
         {
