@@ -1,0 +1,11 @@
+/home/pvddussen/Documents/Projects/Spectare_Cantus/src/SpectareCantus/Core/bin/Debug/net8.0/Core.deps.json
+/home/pvddussen/Documents/Projects/Spectare_Cantus/src/SpectareCantus/Core/bin/Debug/net8.0/Core.dll
+/home/pvddussen/Documents/Projects/Spectare_Cantus/src/SpectareCantus/Core/bin/Debug/net8.0/Core.pdb
+/home/pvddussen/Documents/Projects/Spectare_Cantus/src/SpectareCantus/Core/obj/Debug/net8.0/Core.GeneratedMSBuildEditorConfig.editorconfig
+/home/pvddussen/Documents/Projects/Spectare_Cantus/src/SpectareCantus/Core/obj/Debug/net8.0/Core.AssemblyInfoInputs.cache
+/home/pvddussen/Documents/Projects/Spectare_Cantus/src/SpectareCantus/Core/obj/Debug/net8.0/Core.AssemblyInfo.cs
+/home/pvddussen/Documents/Projects/Spectare_Cantus/src/SpectareCantus/Core/obj/Debug/net8.0/Core.csproj.CoreCompileInputs.cache
+/home/pvddussen/Documents/Projects/Spectare_Cantus/src/SpectareCantus/Core/obj/Debug/net8.0/Core.dll
+/home/pvddussen/Documents/Projects/Spectare_Cantus/src/SpectareCantus/Core/obj/Debug/net8.0/refint/Core.dll
+/home/pvddussen/Documents/Projects/Spectare_Cantus/src/SpectareCantus/Core/obj/Debug/net8.0/Core.pdb
+/home/pvddussen/Documents/Projects/Spectare_Cantus/src/SpectareCantus/Core/obj/Debug/net8.0/ref/Core.dll
