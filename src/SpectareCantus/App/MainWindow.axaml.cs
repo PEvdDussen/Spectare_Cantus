@@ -13,14 +13,14 @@ namespace App
 
             try 
             {
-                // CHANGE THIS: Use the full path to your JSON file on your Linux Mint machine
-                string path = "/home/pvddussen/Documents/Projects/Spectare_Cantus/assets/version-1.0.0/psalms/afr/100/psalm-100-1_verse-1.json";
+                // CHANGE THIS: Use the full path to your JSON file
+                string path = "";
                 
                 // Use the Parser to load real data
                 Lyrics realData = LyricsLoader.LoadPsalm(path);
 
                 // Update the UI with real data from the file
-                WelcomeText.Text = $"Loaded: {realData.Header.Type} {realData.Header.Number}-{realData.Header.Rhyme} (Melody: {realData.Header.PreferedMelody})";
+                WelcomeText.Text = $"Loaded: {realData.Header.Type} {realData.Header.Number}-{realData.Header.Rhyme} verse {realData.Header.VerseNumber} (Melody: {realData.Header.PreferedMelody})";
             }
             catch (Exception ex)
             {
