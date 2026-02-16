@@ -1,2 +1,5 @@
 # Ignore binaries
 **/*bin
+
+# Ignore Debug folders
+**/*Debug
