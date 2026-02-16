@@ -3,7 +3,7 @@
 Welcome! We are currently in the early prototype phase. This document explains the technical structure of the melody engine.
 
 ## Notes
-This project will initially be developed for the Afrikaans language. As I am a member of `Gereformeerde kerk Centurion` I will be developing the project to support the liturgy approved by the `Gereformeerde Kerke in Suid-Afrika` or `GKSA`. The project will be developed to try and accomodate other languages and denominations, as such any contibutions from any other denomination or language is most welcome. Please open an issue on GitHub so we can start integrating your requirements.
+This project will initially be developed for the Afrikaans language. As I am a member of `Gereformeerde Kerk Centurion`, or `GK Centurion`, I will be developing the project to support the Psalmody approved by the `Gereformeerde Kerke in Suid-Afrika`, or `GKSA`,. The project will be developed to try and accomodate other languages and denominations, as such any contibutions from any other denomination or language is most welcome. Please open an issue on GitHub so we can start integrating your requirements.
 
 I am not yet a highly experienced developer. I have a little over a year's experience and that is mostly in python 3.13 and 3.14.
 As such, I am highly open to any suggestions, critiques or guidance in regards to both C# and the overall project structure.
