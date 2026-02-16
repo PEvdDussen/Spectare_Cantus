@@ -4,7 +4,7 @@ A modern, cross-platform engine for liturgical music, built with .NET.
 *Spectare Cantus* ("Beholding the Song" or "See and Sing") aims to bridge the gap between traditional musical notation and modern digital accessibility.
 
 ### The Vision
-The goal is to provide a high-fidelity experience for displaying Psalms. By decoupling music notation from language through a unique **Syllable-Token** mapping system.
+The goal is to provide a high-fidelity experience for displaying Psalmomdy. By decoupling music notation from language through a unique **Syllable-Token** mapping system.
 
 See `CONTRIBUTING.md` for mor information
 
