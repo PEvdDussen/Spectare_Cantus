@@ -3,13 +3,12 @@
 Welcome! We are currently in the early prototype phase. This document explains the technical structure of the melody engine.
 
 ## Notes
-This project will initially be developed for `Gereformeerde Kerke in Suid-Afrika` in the Afrikaans language.
-However, any contibutions from any other denomination or language is most welcome. Please open an issue so we can start integrating your requirements.
+This project will initially be developed for the Afrikaans language. As I am a member of `Gereformeerde kerk Centurion` I will be developing the project to support the liturgy approved by the `Gereformeerde Kerke in Suid-Afrika` or `GKSA`. The project will be developed to try and accomodate other languages and denominations, as such any contibutions from any other denomination or language is most welcome. Please open an issue on GitHub so we can start integrating your requirements.
 
 I am not yet a highly experienced developer. I have a little over a year's experience and that is mostly in python 3.13 and 3.14.
 As such, I am highly open to any suggestions, critiques or guidance in regards to both C# and the overall project structure.
 
-Lastly, I am only one person. I apologise for any delay in replying to anything. Be that pull requests or new issues. thank you for your understanding and patience.
+Lastly, I am only one person. I apologise for any delay in replying to anything, be that pull requests or new issues. Thank you for your understanding and patience.
 
 ## Project Structure
 - `/src`: The C# source code.
@@ -18,7 +17,7 @@ Lastly, I am only one person. I apologise for any delay in replying to anything.
 - `/assets/version:1/lyrics/afr/psalm/100`: The files for psalm 100 in the Afrikaans language.
 
 ## Melody Structure
-A melody is defined by a MusicXML v4 definition.
+A melody is defined by a MusicXML v4.0 definition.
 
 ### Syllable Notation
 A syllable is defined in a `<lyric>` tag.
