@@ -1,5 +1,7 @@
-# Ignore binaries
-**/*bin
+# Build folders
+bin/
+obj/
 
-# Ignore Debug folders
-**/*Debug
+# Visual Studio files
+.vs/
+*.user
